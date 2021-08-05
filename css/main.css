@@ -264,6 +264,14 @@ ul > li {
     margin-left: 5px;
   }
 }
+@media only screen and (max-width: 1024px) {
+  .centri {
+    margin-left: 15px;
+  }
+  .butto {
+    margin-left: 50px;
+  }
+}
 
 @media only screen and (max-width: 729px) {
   /* .inputs {
